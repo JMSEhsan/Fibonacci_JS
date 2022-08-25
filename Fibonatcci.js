@@ -1,4 +1,6 @@
 
+// Al Sweigart, THE RECURSIVE BOOK OF RECURSION, 2022
+
 //<script type="text/javascript">
 function fibonacci(nthNumber) {
  let a = 1, b = 1;
